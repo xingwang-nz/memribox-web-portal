@@ -1,0 +1,17 @@
+*.pydevproject
+.project
+.metadata
+.gradle
+.tern-project
+bin/
+tmp/
+gen/
+target/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
